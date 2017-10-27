@@ -28,3 +28,4 @@ console.log(
 ); // console.log 끝에는 개행문자가 자동으로 삽입됩니다.
 
 
+console.log("testcode");

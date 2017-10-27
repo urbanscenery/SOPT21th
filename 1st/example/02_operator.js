@@ -15,10 +15,10 @@ console.log(str1 + str2); //문자열 + 문자열;
 
 console.log(num1 + str1); //숫자 + 문자열;
 
-/*헤헤 요게 좀 골때려요
+
 console.log(str2 + num2 + num1); //문자열 + 숫자 + 숫자;
 console.log(num1 + num2 + str1); //숫자 + 숫자 + 문자열;
-*/
+
 
 var func1 = function(){
 	return 5;
